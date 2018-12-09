@@ -1,1 +1,6 @@
-Simple project
+# Simple project
+
+1. Коммит проекта
+2. Создание сервиса
+3. Добавлени тестов
+    go test -v
